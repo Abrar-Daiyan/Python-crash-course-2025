@@ -1,13 +1,11 @@
 #Topics :
 # Formatted strings
 # Lists
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+# Adding elements
+# Deleting element
+# Organizing lists
+# Length meter function
+
 
 # Formatted strings
 
